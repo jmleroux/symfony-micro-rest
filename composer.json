@@ -1,0 +1,21 @@
+{
+    "name": "jmleroux/symfony-micro-rest",
+    "type": "project",
+    "description": "Symfony micro kernel application for rest",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.5",
+        "symfony/symfony": "~3.0",
+        "symfony/monolog-bundle": "~2.4"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "~2.0"
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}

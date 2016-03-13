@@ -1,0 +1,3 @@
+services:
+    jmleroux.micro_rest.version:
+        class: JmLeroux\Components\Core\Version
