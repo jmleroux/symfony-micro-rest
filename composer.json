@@ -1,6 +1,7 @@
 {
     "name": "jmleroux/symfony-micro-rest",
     "type": "project",
+    "license": "MIT",
     "description": "Symfony micro kernel application for rest",
     "autoload": {
         "psr-4": {
